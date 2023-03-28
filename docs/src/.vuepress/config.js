@@ -12,10 +12,9 @@ module.exports = {
     nextLinks: true,
     prevLinks: true,
     nav: [
-      { text: 'Intro', link: '/guide/' },
+      { text: 'Intro', link: '/introduction/' },
       { text: 'Scheme Setup', link: '/schemesetup/' },
       { text: 'Administration', link: '/administration/' },
-    
       {
         text: 'MSS',
         link: 'https://github.com/KimemiaT/systechafrica.github.io',

@@ -3,7 +3,7 @@ home: true
 heroImage: https://systechafrica.com/wp-content/uploads/2021/02/outline-fundmaster.png
 tagline: Documentation
 actionText: Get Started →
-actionLink: /guide/
+actionLink: /introduction/
 features:
 - title: MISSION
   details: Providing innovative, state of the art technology solutions to the retirement benefits industry ensuring industry best practices, compliance and learning, while maintaining motivated human resources.
