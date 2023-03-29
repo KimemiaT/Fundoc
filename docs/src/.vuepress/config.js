@@ -12,12 +12,11 @@ module.exports = {
     nextLinks: true,
     prevLinks: true,
     nav: [
-      { text: 'Intro', link: '/introduction/' },
-      { text: 'Scheme Setup', link: '/schemesetup/' },
+      { text: 'Introduction', link: '/introduction/' },
       { text: 'Administration', link: '/administration/' },
       {
         text: 'MSS',
-        link: 'https://github.com/KimemiaT/systechafrica.github.io',
+        link: 'https://github.com/systechafrica/systechafrica.github.io',
       },
     ],
     sidebar: require('./sidebar.js'),
