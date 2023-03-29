@@ -14,6 +14,7 @@ module.exports = {
     nav: [
       { text: 'Introduction', link: '/introduction/' },
       { text: 'Administration', link: '/administration/' },
+      {text: 'Accounts', link: '/accounts/' },
       {
         text: 'MSS',
         link: 'https://github.com/systechafrica/systechafrica.github.io',

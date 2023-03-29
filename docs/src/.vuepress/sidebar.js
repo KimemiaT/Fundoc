@@ -29,6 +29,23 @@ module.exports = {
       },
     ],
 
-    
+    '/acccounts/': [
+      {
+        text: 'accounts',
+        children: [
+          '',
+          'budget',
+          'cashManagement',
+          'creditorsDebtors',
+          'fixedAssets',
+          'generalLedger',
+          'payablesPayments',
+          'receivableReceipts',
+          'setup',
+        
+        ],
+      },
+    ],
+
   };
   
