@@ -1,7 +1,7 @@
 const { description } = require('../../package');
 module.exports = {
   logo: "https://systechafrica.com/wp-content/uploads/2021/02/outline-fundmaster.png",
-  title: 'FundMaster Documentation',
+  title: 'FundMaster',
   description: description,
   themeConfig: {
     logo: 'https://systechafrica.com/wp-content/uploads/2021/02/outline-fundmaster.png',
@@ -12,15 +12,32 @@ module.exports = {
     nextLinks: true,
     prevLinks: true,
     nav: [
-      { text: 'Introduction', link: '/introduction/' },
-      { text: 'Administration', link: '/administration/' },
-      {text: 'Accounts', link: '/accounts/' },
+     {
+      text: 'Modules',
+      items: [
+        { text: 'Getting Started', link: '/introduction/' },
+        { text: 'Admin panel', link: '/administration/' },
+        {text: 'Accounts', link: '/accounts/' },
+        {text: 'Scheme Setup', link: '/schemesetup/' },
+        {text: 'Member Register', link:'/members/'},
+        {text:'Pensioner Register', link:'/pensioners/'},
+        {text:'Investment', link: '/investments/'},
+        {text:'Workflow', link:'/workflow/'},
+        {text:'Reports', link:'/reports/'},
+      ]
+    },
+
+
       {
         text: 'MSS',
         link: 'https://github.com/systechafrica/systechafrica.github.io',
       },
+      {
+        text: ' Video Tutorial',
+        link: 'https://www.youtube.com/'
+      },
     ],
-    sidebar: require('./sidebar.js'),
+    sidebar:require('./sidebar.js'),
   },
 };
   

@@ -39,6 +39,8 @@ module.exports = {
           'creditorsDebtors',
           'fixedAssets',
           'generalLedger',
+          'intro',
+          'journals',
           'payablesPayments',
           'receivableReceipts',
           'setup',
