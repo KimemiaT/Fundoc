@@ -18,10 +18,10 @@ module.exports = {
         { text: 'Getting Started', link: '/introduction/' },
         { text: 'Admin panel', link: '/administration/' },
         {text: 'Accounts', link: '/accounts/' },
-        {text: 'Scheme Setup', link: '/schemesetup/' },
-        {text: 'Member Register', link:'/members/'},
         {text:'Pensioner Register', link:'/pensioners/'},
+        {text: 'Scheme Setup', link: '/schemesetup/' },     
         {text:'Investment', link: '/investments/'},
+        {text: 'Member Register', link:'/members/'},
         {text:'Workflow', link:'/workflow/'},
         {text:'Reports', link:'/reports/'},
       ]
