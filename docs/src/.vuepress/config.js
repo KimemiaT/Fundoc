@@ -30,11 +30,11 @@ module.exports = {
 
       {
         text: 'MSS',
-        link: 'https://github.com/systechafrica/systechafrica.github.io',
+        link: 'https://www.systechafrica.com',
       },
       {
         text: ' Video Tutorial',
-        link: 'https://www.youtube.com/'
+        link: 'https://www.systechafrica.com'
       },
     ],
     sidebar:require('./sidebar.js'),

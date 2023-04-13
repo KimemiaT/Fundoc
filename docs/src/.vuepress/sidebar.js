@@ -4,12 +4,12 @@ module.exports = {
         text: 'Introduction',
         children: [
           '',
-          'theMainMenuBar',
-        
+          'theMainMenuBar', 
         ],
       },
     ],
     
+
     '/administration/': [
       {
         text: 'administration',
@@ -29,6 +29,7 @@ module.exports = {
       },
     ],
 
+
     '/acccounts/': [
       {
         text: 'accounts',
@@ -44,7 +45,51 @@ module.exports = {
           'payablesPayments',
           'receivableReceipts',
           'setup',
-        
+        ],
+      },
+    ],
+
+
+    '/pensioners/': [
+      {
+        text: 'Pensioners',
+        children: [
+          '',
+          'approval',
+          'deductionAndArrears',
+          'introduction',
+          'liabilities',
+          'onboarding',
+          'payroll',      
+        ],
+      },
+    ],
+
+  
+    '/reports/': [
+      {
+        text: 'reports',
+        children: [
+          '',
+          'batchMembersReport',
+          'dashboardComponents',
+          'gettingStarted',
+          'introduction',
+          'membersBenefitReport',     
+        ],
+      },
+    ],
+
+
+    '/workflow/': [
+      {
+        text: 'workflow',
+        children: [
+          '',
+          'adminPanel',
+          'analysis',
+          'intro',
+          'taskMgt',     
         ],
       },
     ],
