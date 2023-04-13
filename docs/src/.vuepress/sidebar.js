@@ -94,5 +94,33 @@ module.exports = {
       },
     ],
 
+
+    '/investments/': [
+      {
+        text: 'investments',
+        children: [
+          '',
+          'bond&Securities',
+          'deposits',
+          'equity',
+          'fundManagement',
+          'intro',
+          'newProperty',
+          'posting',
+          'privateEquities',
+          'property',
+          'propertyList',
+          'serviceCharge',
+          'treasuryBills',
+          'unitSalesRegister',
+        ],
+      },
+    ],
+
+
+
+
+
+    
   };
   
