@@ -1,4 +1,5 @@
 const { description } = require('../../package');
+
 module.exports = {
   logo: "https://systechafrica.com/wp-content/uploads/2021/02/outline-fundmaster.png",
   title: 'FundMaster',
@@ -41,4 +42,3 @@ module.exports = {
   },
 };
   
-
