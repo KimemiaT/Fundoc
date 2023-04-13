@@ -28,6 +28,7 @@ After inputting the access IP address, a user is directed to the login page wher
 - The system is set to allow a user only three attempts at log in after which the account is locked. The locked account can only be reactivated by the system administrator.
 
 
+
 ## Landing Page
 
 This is the dashboard (with the main menu and other controls) seen on a user’s screen when one successfully logs in to FundMaster. See the screenshot below:
@@ -51,4 +52,4 @@ The circled numbers in the screenshot above correspond to the numbers in the fol
 | 9.    	| Pensioners Register link  	| A link to the Pensioners Register Module.                                                                                                         	|
 | 10.   	| Administrative Panel link 	| A link to the Administrative Panel Module.                                                                                                        	 |
 | 11.   	| Accounts link             	| A link to the Accounts Module.                                                                                                                    	|
-| 12.   	| Member Register link      	| A shortcut to the Members Register Module.                                                                                                             |
+| 12.   	| Member Register link      	| A shortcut to the Members Register Module.                                                                                                          |
