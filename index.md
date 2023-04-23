@@ -24,7 +24,7 @@ Conceptually, FundMaster Xe adopts a “Top-down design;” a software design te
 
 The system integrates the following supporting modules for efficacy:
 
--	**The administrative panel:** This module aids in the management of rights and permissions access through the creation of profiles and user accounts.
+-	**The admin panel:** This module aids in the management of rights and permissions access through the creation of profiles and user accounts.
 
 -	**Scheme setup module:** this module aids in the implementation or setting up of the Trust Deed and Rules of a pension scheme.
 	
