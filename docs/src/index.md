@@ -14,8 +14,11 @@ features:
 ---
 ## Quick video Tutorial
 This are short tutorials of common processes in FundMaster.
-- [Quick Video Tutorial](https://www.systechafrica.com)
+
+- [Quick Video Tutorial](https://youtu.be/MukZZYYhcU8)
 ---
+
+
  ::: slot footer
  Licensed | Copyright © 2023 [Systech Africa Ltd](https://systechafrica.com/)
 :::
