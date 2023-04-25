@@ -35,7 +35,7 @@ module.exports = {
       },
       {
         text: ' Video Tutorial',
-        link: 'https://www.systechafrica.com'
+        link: 'https://youtu.be/MukZZYYhcU8'
       },
     ],
     sidebar:require('./sidebar.js'),
